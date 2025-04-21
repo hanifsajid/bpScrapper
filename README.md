@@ -66,11 +66,12 @@ python main.py \
  ```
 ## Arguments 
 
-Argument | Type | Required | Description
---year | int | \checkmark | Election year (e.g., 2020)
---states_str | string | \checkmark | Comma-separated (,) or dot-seprated (•) string of state names (as listed on Ballotpedia)
---output_dir | string | X | Directory to store CSV (default: scrapped_data)
---output_file | string | X | Output CSV file name with {year} placeholder (default: senate{year}.csv)
+|Argument | Type | Required | Description|
+|:-|:-|:-|:-|
+|--year | int | \checkmark | Election year (e.g., 2020)|
+|--states_str | string | \checkmark | Comma-separated (,) or dot-seprated (•) string of state names (as listed on Ballotpedia)|
+|--output_dir | string | X | Directory to store CSV (default: scrapped_data)|
+|--output_file | string | X | Output CSV file name with {year} placeholder (default: senate{year}.csv)|
 
 ## Output
 
