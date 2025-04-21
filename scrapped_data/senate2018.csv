@@ -1,0 +1,12 @@
+year,state,candidate,party,writein_details,vote_percentage,votes,winner,incumbent,bio_url,additional_info
+2018,Arizona,Kyrsten Sinema ,D,,50.0,"1,191,100",True,False,https://ballotpedia.org/Kyrsten_Sinema,Kyrsten Sinema (D)
+2018,Arizona,Martha McSally ,R,,47.6,"1,135,200",False,False,https://ballotpedia.org/Martha_McSally,Martha McSally (R)
+2018,Arizona,Angela Green ,G,,2.4,"57,442",False,False,https://ballotpedia.org/Angela_Green,Angela Green (G)
+2018,Arizona,,,,0.0,566,False,False,,Other/Write-in votes
+2018,California,Dianne Feinstein ,D,,54.2,"6,019,422",True,True,https://ballotpedia.org/Dianne_Feinstein,Dianne Feinstein (D)
+2018,California,Kevin de León ,D,,45.8,"5,093,942",False,False,https://ballotpedia.org/Kevin_de_Le%C3%B3n,Kevin de León (D)
+2018,Connecticut,Christopher S. Murphy ,D,,59.5,"825,579",True,True,https://ballotpedia.org/Chris_Murphy_(Connecticut),Christopher S. Murphy (D)
+2018,Connecticut,Matthew Corey ,R,,39.3,"545,717",False,False,https://ballotpedia.org/Matthew_Corey,Matthew Corey (R)
+2018,Connecticut,Richard Lion ,L,,0.6,"8,838",False,False,https://ballotpedia.org/Richard_Lion,Richard Lion (L)
+2018,Connecticut,Jeffery Russell ,G,,0.5,"6,618",False,False,https://ballotpedia.org/Jeffery_Russell,Jeffery Russell (G)
+2018,Connecticut,,,,0.0,88,False,False,,Other/Write-in votes
